@@ -1,7 +1,7 @@
 export default function App() {
   const year = new Date().getFullYear();
 
-  const mailto = "mailto:lunariqautomation@gmail.com?subject=Lunariq%20Automation%20-%20Project%20Inquiry&body=Hi%20Lunariq%2C%0A%0AI%27m%20interested%20in%20automation%20for%20my%20business.%0A%0ABusiness%20type%3A%0AWhat%20I%20want%20automated%3A%0AMy%20budget%3A%0ABest%20way%20to%20reach%20me%3A%0A%0AThanks!"
+  const mailto = "mailto:lunariq.co@gmail.com?subject=Lunariq%20Automation%20-%20Project%20Inquiry&body=Hi%20Lunariq%2C%0A%0AI%27m%20interested%20in%20automation%20for%20my%20business.%0A%0ABusiness%20type%3A%0AWhat%20I%20want%20automated%3A%0AMy%20budget%3A%0ABest%20way%20to%20reach%20me%3A%0A%0AThanks!"
   
   return (
     <div style={{ fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif", color: "#eaeaea", background: "#0b0f17", minHeight: "100vh" }}>
